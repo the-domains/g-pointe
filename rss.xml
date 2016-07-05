@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[G-POINTE]]></title>
+        <description><![CDATA[G-POINTE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 20:53:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Achieving Freedom through design]]></title>
+            <description><![CDATA[<article><h1>Achieving Freedom through design</h1><p>Visually epic design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ba38ff-cee9-4c86-9491-5e01996dc8b0.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ba38ff-cee9-4c86-9491-5e01996dc8b0.jpg</link>
+            <guid isPermaLink="false">2ebbe462-b712-477d-87c9-b389d234cdb3</guid>
+            <pubDate>Tue, 05 Jul 2016 20:53:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
